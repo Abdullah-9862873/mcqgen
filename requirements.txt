@@ -1,5 +1,10 @@
 openRouter
 streamlit
 langchain
-pyPDF2
+PyPDF2
 python-dotenv
+tiktoken
+openai
+langchain-openai
+langchain-community
+langchain-core
