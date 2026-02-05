@@ -76,6 +76,3 @@ mcqgen/
 └── README.md           # Project documentation
 ```
 
-## ⚖️ License
-
-[MIT License](LICENSE) (or your preferred license)
